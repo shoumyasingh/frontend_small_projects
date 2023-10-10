@@ -1,2 +1,2 @@
-# frontend_small_projects
-HTML, Javascript ,CSS based small frontend projects
+# frontend_projects
+HTML, Javascript , CSS based small frontend projects
